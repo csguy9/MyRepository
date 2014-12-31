@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<project name="Hello ANT World project" default="info">
+	<property name="sitename" value="www.qtpselenium.com"/>
+<target name="info">
+	<echo> Hello World-Welcome to Apache ANT!</echo>
+		</target>
+	</project>
+
+<!--
+ <target name="deploy" depends="package">
+// </target>
+// <target name="package" depends="clean,compile">
+// </target>	
+// <target name="clean">
+// </target>
+<target name="compile">
+</target>
+-->

@@ -1,0 +1,7 @@
+com.testing.business
+com.testing.domain
+com.testing.persistence
+com.testing.ui
+com.testing.ui.presenter
+com.testing.ui.view
+com.testing.ui.view.form
